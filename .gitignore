@@ -4,3 +4,8 @@ __pycache__/
 .env
 *.log
 .DS_Store
+kubectl
+*.bin
+*.tar
+*.tar.gz
+*.zip
