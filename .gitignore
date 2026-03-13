@@ -9,3 +9,9 @@ kubectl
 *.tar
 *.tar.gz
 *.zip
+
+kubectl
+*.zip
+*.tar
+*.tar.gz
+*.bin
